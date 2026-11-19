@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+.pnp
+*.pnp.js*
+
+# Production build
+.next/
+out/
+
+# Prisma
+.prisma/
+
+# Environment variables
+.env*
+!.env.example
+
+# IDE
+.vscode/
+.eslintcache/
+
+# TypeScript
+*.tsbuildinfo
+*.tsbuildinfo
+.vercel
+.env*
